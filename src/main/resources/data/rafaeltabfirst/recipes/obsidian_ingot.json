@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "rafaeltabfirst:obsidian_dust"
+  },
+  "result": "rafaeltabfirst:obsidian_ingot",
+  "experience": 0.1,
+  "cookingtime": 20
+}

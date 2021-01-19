@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "rafaeltabfirst:obsidian_ingot"
+    }
+  },
+  "result": {
+    "item": "rafaeltabfirst:obsidian_bricks",
+    "count": 1
+  }
+}
